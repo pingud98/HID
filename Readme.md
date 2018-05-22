@@ -3,7 +3,7 @@
 
 ![Header Picture](virtualkeyb.jpg)
 
-This is targetted at the Leonardo or compatible boards (328u) and will be built around one of these:
+This is targetted at the Leonardo or compatible boards (32U4) and will be built around one of these:
 https://www.aliexpress.com/item/Beetle-Virtual-Keyboard-BadUSB-Pro-Micro-ATMEGA32U4-Module-Mini-Development-Expansion-Board-For-Arduino-Leonardo-R3/32847715254.html?spm=2114.search0104.3.1.7d542341ScymPz&ws_ab_test=searchweb0_0,searchweb201602_1_10152_10151_10065_10344_10068_10342_10343_10340_5722611_10341_10696_5722911_5722811_10084_5722711_10083_10618_10307_10134_5711211_10059_308_100031_10103_10624_10623_10622_10621_10620_5711311_5722511_10814_10815,searchweb201603_25,ppcSwitch_5&algo_expid=c50f562a-35a5-4cbe-9391-2b1586b8823e-0&algo_pvid=c50f562a-35a5-4cbe-9391-2b1586b8823e&priceBeautifyAB=0
 
 It's going to act like a keyboard (HID) and will write random words at random times with the purpose of being an entertaining toy for the office to play (innocent) jokes on colleagues.
